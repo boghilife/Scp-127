@@ -13,5 +13,5 @@ The plugin is created with the api of [Exiled](link), and is write in C#.
 
 #### About me:
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=boghilife&theme=blue-green)
 
