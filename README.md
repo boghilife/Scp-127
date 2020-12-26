@@ -7,4 +7,4 @@ Support:
 ==============
 [Discord](https://discord.gg/BHCgvttTzF)
 
-[![Discord](https://img.shields.io/discord/
+[![https://discord.gg/BHCgvttTzF](https://img.shields.io/discord/)
