@@ -9,4 +9,9 @@ SCP-127 will be a MP7 that will make more damage, will have endless shots (with 
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BHCgvttTzF)
 
 ### More info:
-The plugin is created with the api of [Exiled](link), and is write in C#
+The plugin is created with the api of [Exiled](link), and is write in C#.
+
+#### About me:
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+
