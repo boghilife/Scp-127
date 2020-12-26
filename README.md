@@ -10,7 +10,7 @@ SCP-127 will be a MP7 that will make more damage, will have endless shots (with 
 
 
 ### More info:
-The plugin is created with the api of [Exiled](link), and is write in C#.
+The plugin is created with the api of [Exiled](https://github.com/galaxy119/EXILED), and is write in C#.
 
 #### About me:
 
