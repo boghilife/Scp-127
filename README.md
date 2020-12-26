@@ -6,6 +6,7 @@ SCP-127 will be a MP7 that will make more damage, will have endless shots (with 
 
 ## Support or follow me:
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BHCgvttTzF)
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fyoutube-channel-badge-cvbjf6302.vercel.app%2Fapi%2Fsubscriber)
 
 
 ### More info:
